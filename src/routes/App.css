@@ -1,0 +1,22 @@
+.app-container {
+  display: flex;
+}
+.content {
+  width: 100%;
+}
+
+.post-card {
+  width: 200px;
+  text-align: center;
+  margin: auto;
+  margin-top: 25px;
+  background-color: #f6ffff;
+  border: 1px solid black;
+  border-radius: 15px;
+  padding: 10px;
+}
+.creatpost {
+  width: 50%;
+  align-items: center;
+  margin: auto;
+}
